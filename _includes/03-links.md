@@ -1,1 +1,1 @@
-[Yahoo] (https://www.yahoo.com)
+[Yahoo](https://www.yahoo.com)
