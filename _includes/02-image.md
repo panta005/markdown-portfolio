@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Dwight](https://vignette.wikia.nocookie.net/theoffice/images/c/cd/Dwight_Schrute.jpg/revision/latest?cb=20110105114630)
